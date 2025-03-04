@@ -1,0 +1,1 @@
+return { "seandewar/killersheep.nvim" }

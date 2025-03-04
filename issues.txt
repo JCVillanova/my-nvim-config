@@ -1,0 +1,9 @@
+These are just some notes to myself about things to figure out with my Nvim config :3
+
+BUFFERLINE.NVIM
+1) Tabs shifting past the file explorer (and the file explorer being labeled) doesn't work. This issue was posted by someone else on the buffeline.nvim GitHub in February and I've subscribed to notifications from it.
+2) Diagnostics are highlighted rather weirdly (slightly different color than the file name). Might have to do with my colorscheme, not setting the group highlights, or both. Ask on some online forum.
+3) Groups don't work at all. Ask on some online forum
+
+SNACKS.NVIM PICKER
+1) Grep doesn't work at all, gives an error
